@@ -1,6 +1,7 @@
 # libgsidem2el
 
  - get elevation in GSI-Dem tile layer 
+ - in japanese : http://computational-sediment-hyd.hatenablog.jp/entry/2018/12/26/214934
 
 ## Usage
 
