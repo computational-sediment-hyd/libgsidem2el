@@ -33,7 +33,7 @@ el = dem.getEL(lon, lat, zoom = 15)
 
 ## Licence
 
-[MIT](/LICENCE)
+[MIT](https://raw.githubusercontent.com/computational-sediment-hyd/libgsidem2el/master/LICENSE)
 
 ## Author
 
